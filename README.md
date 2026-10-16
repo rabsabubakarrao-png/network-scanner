@@ -1,6 +1,6 @@
 # 🛡️ Advanced ARP Network Scanner for SOC Analysts
 
-A lightweight and efficient Python-based network discovery tool built using **Scapy**[cite: 1]. Designed to help Security Operations Center (SOC) analysts and penetration testers identify live hosts, MAC addresses, and hardware vendors on a local network segment.
+A lightweight and efficient Python-based network discovery tool built using **Scapy**. Designed to help Security Operations Center (SOC) analysts and penetration testers identify live hosts, MAC addresses, and hardware vendors on a local network segment.
 
 ## 🚀 Features
 - **ARP Scanning:** Fast live host discovery using ARP broadcast requests.
